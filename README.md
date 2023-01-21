@@ -9,11 +9,9 @@ I dati sono stati reperiti dalla richiesta di questo **form**,*https://forms.gle
 
 In questa repository ci saranno:
 - Il notebook Jupyter in cui è stato scritto il codice per:
-> l'**ETL** dei dati su **MongoDB**;
-
-> il codice per la preparazione all'**ETL** su **Neo4j**;
-
-> le **query** di analisi su **Neo4j**.
+ - l'**ETL** dei dati su **MongoDB**;
+ - il codice per la preparazione all'**ETL** su **Neo4j**;
+ - le **query** di analisi su **Neo4j**.
 
 - I file prodotti dall'esecuzione dello script del notebook;
 
