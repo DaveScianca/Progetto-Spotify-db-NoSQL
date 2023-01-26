@@ -1,12 +1,12 @@
 name,id,genre
 Pinguini Tattici Nucleari,6RdcIWVKYYzNzjQRd3oyHS,"['bergamo indie', 'italian indie pop', 'italian pop', 'milan indie']"
-Dargen D'Amico,7muPB2GhV0sEg2K1Fgj0Xm,"['italian adult pop', 'italian hip hop', 'italian indie pop', 'italian pop', 'milan indie', 'r&b italiano']"
+Dargen D'Amico,7muPB2GhV0sEg2K1Fgj0Xm,"['italian hip hop', 'italian indie pop', 'italian pop', 'milan indie', 'r&b italiano']"
 Mahmood,06nvjg4wBANK6DCHjqtPNd,['italian pop']
 BLANCO,1MRiIeZbc0cRuxOafDUCtH,"['italian hip hop', 'italian pop']"
 Rkomi,056KMTw6IztdQjBmFfVyO3,"['italian hip hop', 'italian pop']"
 Elodie,7GgpsUpkj3olseoaTY7TEY,"['italian adult pop', 'italian pop']"
-Tananai,35V1WomiedCJeGfupcPm7s,"['italian indie pop', 'italian pop']"
-Marracash,5AZuEF0feCXMkUCwQiQlW7,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap napoletano']"
+Tananai,35V1WomiedCJeGfupcPm7s,['italian indie pop']
+Marracash,5AZuEF0feCXMkUCwQiQlW7,"['italian hip hop', 'italian underground hip hop', 'rap napoletano']"
 Guè,7F2utINZ6tSokSiZTQBE27,['italian hip hop']
 Sfera Ebbasta,23TFHmajVfBtlRx5MXqgoz,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']"
 Lazza,0jdNdfi4vAuVi7a6cPDFBM,"['italian hip hop', 'rap genovese', 'trap italiana']"
@@ -15,7 +15,7 @@ Fulminacci,1QeqGmpgU5Yg74GNcjIIq3,"['italian indie pop', 'rome indie']"
 Eugenio In Via Di Gioia,1UtaXKnNyKhj0efXu2rD5t,"['indie folk italiano', 'italian indie pop', 'turin indie']"
 thasup,19i93sA0D7yS9dYoVNBqAA,"['italian hip hop', 'italian pop', 'trap italiana']"
 Rhove,44DWomjW1oDuxIoBIRpmQ4,"['italian hip hop', 'trap italiana']"
-Bresh,7FeObngbQ0GY3SojNwKdKn,"['italian hip hop', 'italian indie pop', 'italian pop', 'rap genovese']"
+Bresh,7FeObngbQ0GY3SojNwKdKn,"['italian hip hop', 'italian indie pop', 'rap genovese']"
 SHUNE,5YV5crRpcdknHgEzystZHr,['Without Genre']
 Ernia,3fhMfkPPzksWuw0hEm4ldm,"['italian hip hop', 'italian pop', 'milan indie']"
 rovere,5epzSn98pqluCq6hyGu3ux,['italian indie pop']
@@ -24,16 +24,16 @@ Junior K,63pCdEiziMCDjGOdM1XCrJ,['Without Genre']
 Fred De Palma,0QrUbsrL5imqntAfDl8i7q,['italian pop']
 Capo Plaza,5SulO4l40qDuV9zUGLZx7n,"['italian hip hop', 'trap italiana']"
 Fedez,3pgCLfNbw5ozIfoNsvDU7i,['italian pop']
-Tedua,1AgAVqo74e2q4FVvg0xpT7,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']"
-Kaleb Di Masi,5U5wYVqrbD6J8SK4kNhau4,"['cumbia 420', 'previa', 'rkt']"
+Tedua,1AgAVqo74e2q4FVvg0xpT7,"['indie liguria', 'italian hip hop', 'rap genovese', 'trap italiana']"
+Kaleb Di Masi,5U5wYVqrbD6J8SK4kNhau4,"['cumbia 420', 'rkt']"
 Rvfv,2CCgb0KApjfQDuTppovpf8,"['drill espanol', 'flamenco urbano', 'urbano espanol', 'urbano latino']"
 Omar Varela,5xIOUIBQhGFX7HIj8lhdyU,['gaming dubstep']
 Willie Peyote,00CsjN69YCczmdW0bDKaCC,"['italian hip hop', 'italian indie pop', 'rap napoletano', 'turin indie']"
 Mara Sattei,0zoMmzmyi8N8LwzhyXPvtk,"['italian hip hop', 'italian pop']"
-James Hype,43BxCL6t4c73BQnIJtry5v,"['deep groove house', 'house', 'pop dance', 'uk dance']"
+James Hype,43BxCL6t4c73BQnIJtry5v,"['dance pop', 'deep groove house', 'house', 'pop dance', 'uk dance']"
 Miggy Dela Rosa,45ruzGUmIr8WLjLOPJ9mGU,['dance pop']
 sangiovanni,7dL0nOHwnSAsNAwpkPSGWP,['italian pop']
-Salmo,3hBQ4zniNdQf1cqqo6hzuW,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap sardegna']"
+Salmo,3hBQ4zniNdQf1cqqo6hzuW,"['italian hip hop', 'italian underground hip hop', 'rap sardegna']"
 Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,"['dance pop', 'pop', 'pop rap']"
 Shakira,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin pop']"
 David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
@@ -45,23 +45,23 @@ Irama,5iot8OPcosJN9nCl7I5SdK,"['italian adult pop', 'italian pop']"
 MACE,7gjqZ8coFZimZDtdk04WP1,"['funk carioca', 'italian hip hop', 'italian indie pop']"
 Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']"
 Coez,5dXlc7MnpaTeUIsHLVe3n4,"['italian pop', 'rap napoletano', 'rome indie']"
-Sick Luke,0hk4xVujcyOr6USD95wcWb,"['italian hip hop', 'trap italiana']"
-Lùnapop,4ZbsxiS90Pj1gLeDv3A9mN,"['classic italian pop', 'italian adult pop', 'italian pop']"
+Sick Luke,0hk4xVujcyOr6USD95wcWb,"['italian hip hop', 'italian indie pop', 'trap italiana']"
+Lùnapop,4ZbsxiS90Pj1gLeDv3A9mN,"['classic italian pop', 'italian adult pop']"
 BTS,3Nrfpe0tUJi4K4DXYWgMUX,"['k-pop', 'k-pop boy group']"
 Fast Animals and Slow Kids,2n92OcdDhE5g2CpDI1rjH6,"['italian alternative', 'italian indie pop']"
 Shiva,2K5nCggbhSZ00YCYP5qkZS,"['italian hip hop', 'trap italiana']"
 Boomdabash,4mAsWDGLUIEdo6imU77WG6,"['italian adult pop', 'italian pop', 'italian reggae']"
 Annalisa,0EqkKYDK9EkKY5N7zU3FPv,"['italian adult pop', 'italian pop']"
 Calcutta ,582KhTHEVOONNQLmQ5612r,"['italian indie pop', 'rome indie']"
-Cesare Cremonini,396Jr76018oUMR6QBnqT8T,"['classic italian pop', 'italian adult pop', 'italian indie pop', 'italian pop']"
+Cesare Cremonini,396Jr76018oUMR6QBnqT8T,"['classic italian pop', 'italian adult pop', 'italian indie pop']"
 Crookers,3o1cwVQfiDWafhYA02k13C,['fidget house']
 M¥SS KETA,594PwrFy2mmLueuUwUgoCM,['italian indie pop']
 Ultimo,3hN3iJMbbBmqBSAMx5veDa,"['italian adult pop', 'italian pop']"
 Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,"['dance pop', 'edm', 'pop', 'post-teen pop']"
 Greg Willen,51ltJZ6rB893AdzgCxSOV3,['trap italiana']
 Random,05kigUQCchmbJDmhDiYiS0,['italian pop']
-Matteo Romano,5Imsy0ZXNi7uWLJpP5dZ8b,['italian pop']
-Nessuno,35ReHoGfnoTWT9lJJpEVkU,['italian pop']
+Matteo Romano,5Imsy0ZXNi7uWLJpP5dZ8b,['Without Genre']
+Nessuno,35ReHoGfnoTWT9lJJpEVkU,['Without Genre']
 Urano,4boc9WGDp4rS4bObD8WtlU,['pop virale italiano']
 GAYLE,2VSHKHBTiXWplO8lxcnUC9,['modern alternative pop']
 Måneskin,0lAWpj5szCSwM4rUMHYmrr,"['indie rock italiano', 'italian pop']"
@@ -158,8 +158,8 @@ Sleepy Hallow,6EPlBSH2RSiettczlz7ihV,"['brooklyn drill', 'nyc rap']"
 Gemitaiz,4upwdFMlZBmQ68jP9jPzjK,['italian hip hop']
 AnnenMayKantereit,23xqmJEN3oVxwzqtNIyR5m,"['cologne indie', 'german singer-songwriter']"
 Giant Rooks,5wD0owYApRtYmjPWavWKvb,['Without Genre']
-Jake La Furia,6JFRI91YaCXREGQYzHSnUH,"['italian hip hop', 'italian pop']"
-Rose Villain,2aya6KuqjXEhHBqYKsTPLs,"['italian hip hop', 'milan indie']"
+Jake La Furia,6JFRI91YaCXREGQYzHSnUH,['italian hip hop']
+Rose Villain,2aya6KuqjXEhHBqYKsTPLs,"['italian hip hop', 'italian indie pop', 'milan indie']"
 Night Skinny,2E6AK3UPEGCvjnzuygCh2h,"['italian hip hop', 'rap siciliano', 'trap italiana']"
 JVKE,164Uj4eKjl6zTBKfJLFKKK,['modern indie pop']
 Gaia,3AVx3OBPIk4pJQllAXoVs1,['italian pop']
@@ -181,7 +181,7 @@ Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop']"
 NAYANA IZ,2d8cMSPIFolHyxuox8ESfm,['uk alternative hip hop']
 Joyner Lucas,6C1ohJrd5VydigQtaGy5Wa,"['boston hip hop', 'hip hop', 'pop rap', 'rap']"
 J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
-Fabri Fibra,7u710e44HW3K7A5eTnRqHC,"['italian hip hop', 'italian pop', 'rap napoletano']"
+Fabri Fibra,7u710e44HW3K7A5eTnRqHC,"['italian hip hop', 'rap napoletano']"
 Izi,6289Bbkkk3gaCbh1K7Rv8F,"['indie liguria', 'italian hip hop', 'rap genovese', 'trap italiana']"
 Hard GZ,79N4S7UXdjo2fAh3OHJQuB,"['rap espanol', 'rap politico', 'rap underground espanol']"
 Dollar Selmouni,2544NCTfffschCn1NZVMSb,"['rap espanol', 'urbano espanol']"
@@ -223,11 +223,11 @@ Mondo Marcio,6Fd10Q3sQq1NsvpFTlvMsN,"['italian hip hop', 'italian underground hi
 Dabwoykd,26xVAa6CbjuKkvvQUSRaeO,['uk drill']
 Slava,2OauM2Rnpf6CBDwTtrS2vU,['italian hip hop']
 Audioslave,2ziB7fzrXBoh1HUPS6sVFn,"['alternative metal', 'alternative rock', 'nu metal', 'permanent wave', 'post-grunge', 'rock', 'supergroup']"
-Machine Gun Kelly,6TIYQ3jFPwQSRmorSezPxX,"['ohio hip hop', 'pop', 'pop rap']"
+Machine Gun Kelly,6TIYQ3jFPwQSRmorSezPxX,"['ohio hip hop', 'pop rap']"
 Madonna,6tbjWDEIzxoDsBA1FuhfPW,"['dance pop', 'pop']"
 Justin Timberlake,31TPClRtHm23RisEBtV3X7,"['dance pop', 'pop']"
 Timbaland,5Y5TRrQiqgUO4S36tzjIRZ,"['dance pop', 'hip hop', 'pop', 'pop rap', 'urban contemporary']"
-ARIETE,2T4kh33TYdnDesvlQyRst8,"['italian pop', 'rome indie']"
+ARIETE,2T4kh33TYdnDesvlQyRst8,['rome indie']
 Mecna,4yUvIAm9mSJyLt1WLrOxAZ,"['italian hip hop', 'italian indie pop', 'r&b italiano']"
 Luciennn,6qHbYx76y5bQSbBMUYhhuP,['Without Genre']
 Verano,1UY14QmPtbYtJp41TBmquK,['Without Genre']
@@ -284,15 +284,15 @@ Ava Max,4npEfmQ6YuiwW1GpUmaq3F,"['dance pop', 'pop']"
 Jaymes Young,6QrQ7OrISRYIfS5mtacaw2,"['indie poptimism', 'modern rock', 'pop']"
 zzoilo,7c53ZFyajVMTo08HmvoB6b,['Without Genre']
 Aitana,7eLcDZDYHXZCebtQmVFL25,"['latin pop', 'latin talent show', 'spanish pop']"
-Jonasu,7u4ayw4QFEsolPxZgnPAMT,"['dutch edm', 'edm', 'pop dance', 'pop edm', 'tropical house', 'uk dance']"
+Jonasu,7u4ayw4QFEsolPxZgnPAMT,"['dutch edm', 'pop dance', 'pop edm', 'tropical house', 'uk dance']"
 24kGoldn,6fWVd57NKTalqvmjRd2t8Z,"['cali rap', 'pop', 'pop rap', 'rap']"
-iann dior,6ASri4ePR7RlsvIQgWPJpS,"['melodic rap', 'pop', 'pop rap', 'rap']"
+iann dior,6ASri4ePR7RlsvIQgWPJpS,"['melodic rap', 'pop', 'pop rap']"
 Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']"
 Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,"['dance pop', 'pop', 'uk pop']"
 Farruko,329e4yvIujISKGKz1BZZbO,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
 NEIKED,5H6xmHXjsq98NLbEjuE29f,"['dance pop', 'edm', 'pop', 'pop dance', 'scandipop', 'tropical house']"
 Mae Muller,1BEUkE2CSUgHTLSBMZdnFB,"['uk contemporary r&b', 'uk pop']"
-Polo G,6AgTAQt8XS6jRWi4sX7w49,"['chicago rap', 'rap']"
+Polo G,6AgTAQt8XS6jRWi4sX7w49,['chicago rap']
 Kesha,6LqNN22kT3074XbTVUrhzX,"['dance pop', 'pop', 'post-teen pop']"
 Lil Nas X,7jVv8c5Fj3E9VhNjxT4snq,"['lgbtq+ hip hop', 'pop']"
 Jack Harlow,2LIk90788K0zvyj2JJVwkJ,"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']"
@@ -311,7 +311,7 @@ PNAU,6n28c9qs9hNGriNa72b26u,"['alternative dance', 'aussietronica', 'australian 
 TY1,2DWRgncNMnTfwDiKSI0VoP,['italian hip hop']
 Avicii,1vCWHaC5f2uS3yhpwWbIA6,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']"
 OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['piano rock', 'pop']"
-Justin Quiles,14zUHaJZo1mnYtn6IBRaRP,"['latin hip hop', 'reggaeton', 'urbano latino']"
+Justin Quiles,14zUHaJZo1mnYtn6IBRaRP,"['latin hip hop', 'reggaeton', 'reggaeton flow', 'urbano latino']"
 Chimbala,4VVEpEhC8NcR7AqNEds42U,"['dembow', 'dominican pop', 'rap dominicano', 'urbano latino']"
 Zion & Lennox,21451j1KhjAiaYKflxBjr1,"['latin hip hop', 'reggaeton', 'urbano latino']"
 JID,6U3ybJ9UHNKEdsH7ktGBZ7,"['hip hop', 'rap']"
@@ -341,8 +341,8 @@ Anuel AA,2R21vXR83lH98kGeO99Y66,"['reggaeton', 'reggaeton flow', 'trap boricua',
 Romeo Santos,5lwmRuXgjX8xIwlnauTZIP,['bachata']
 Gym Class Heroes,4IJczjB0fJ04gs4uvP0Fli,"['dance pop', 'pop rap']"
 Adam Levine,4bYPcJP5jwMhSivRcqie2n,['deep talent show']
-MEDUZA,0xRXCcSX89eobfrshSVdyu,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop house', 'tropical house']"
-Dermot Kennedy,5KNNVgR6LBIABRIomyCwKJ,"['folk-pop', 'irish pop', 'pop']"
+MEDUZA,0xRXCcSX89eobfrshSVdyu,"['edm', 'electro house', 'pop', 'pop dance', 'pop house', 'tropical house']"
+Dermot Kennedy,5KNNVgR6LBIABRIomyCwKJ,"['folk-pop', 'irish pop']"
 ABBA,0LcJLqbBmaGUft1e9Mm8HV,"['europop', 'swedish pop']"
 AVA,7zPS3i8YJBNeDcqXUHfCMr,['trap italiana']
 Medy,3lbFUmlaNMa9ZVSabLlkhn,"['italian hip hop', 'trap italiana']"
@@ -353,11 +353,10 @@ Olivia Rodrigo,1McMsnEElThX1knmY4oliG,['pop']
 Becky G,4obzFoKoKRHIphyHzJ35G3,"['dance pop', 'latin pop', 'latin viral pop', 'pop', 'rap latina', 'reggaeton']"
 Nico & Vinz,0awl5piYwO0CDTHEkCjUhn,['pop rap']
 DaBaby,4r63FhuTkUYltbVAg5TQnk,"['north carolina hip hop', 'rap', 'trap']"
-Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'dance pop', 'pop', 'viral pop']"
-Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,"['dance pop', 'pop']"
+Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,"['dance pop', 'neo soul', 'pop']"
 Pitbull,0TnOYISbd1XYRBk9myaseg,"['dance pop', 'miami hip hop', 'pop', 'pop rap']"
 Ne-Yo,21E3waRsmPlU7jZsS13rcj,"['dance pop', 'pop', 'urban contemporary']"
-Afrojack,4D75GcNG95ebPtNvoNVXhz,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop dance', 'pop rap', 'progressive electro house', 'progressive house', 'tropical house']"
+Afrojack,4D75GcNG95ebPtNvoNVXhz,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop dance', 'pop rap', 'progressive house', 'tropical house']"
 Nayer,1ruutHJcECI7cos2n5TqpO,['deep dance pop']
 Post Malone,246dkjvS1zLTtiykXe5h60,"['dfw rap', 'melodic rap', 'rap']"
 Danny Ocean,5H1nN1SzW0qNeUEZvuXjAj,"['pop venezolano', 'reggaeton', 'urbano latino']"
@@ -372,7 +371,7 @@ blackbear,2cFrymmkijnjDg9SS92EPM,"['pop', 'pop rap']"
 TheFatRat,3OKg7YbOIatODzkRIbLJR4,['speedrun']
 RIELL,0xD6n0wj7aqV5g5LcRNBUd,['Without Genre']
 Powfu,6bmlMHgSheBauioMgKv2tn,"['lo-fi chill', 'sad lo-fi', 'sad rap']"
-Theø,46zGU1FOSsPBXb1csAeMJd,['emo rap italiano']
+Theø,46zGU1FOSsPBXb1csAeMJd,"['emo rap italiano', 'italian hip hop']"
 Plant,6gHfqtW8exAkwlpwHN4JyZ,['italian hip hop']
 Fiks,2o6oF1x3tWoVUXb4C4NHze,['emo rap italiano']
 LA SAD,1y5nSaw0Am7fIEDAkrfgjY,['Without Genre']
@@ -384,7 +383,7 @@ Dari,5qqKkW8y9BPVgy1EKBa5Bl,['Without Genre']
 POORSTACY,7vSY9HEreOqb1Llar3UC38,"['emo rap', 'melodic rap']"
 Travis Barker,4exLIFE8sISLr28sqG1qNX,['rap rock']
 Ren,0Repe2EiNjaFAFIukrroUM,['brighton indie']
-mxmtoon,0HthCchcL0kVLHTr113Vk1,"['alt z', 'bedroom pop', 'indie pop']"
+mxmtoon,0HthCchcL0kVLHTr113Vk1,"['bedroom pop', 'indie pop']"
 WILLOW,3rWZHrfrsPBxVy692yAIxF,"['afrofuturism', 'pop', 'post-teen pop']"
 Eagles,0ECwFtbIWEVNwjlrfc6xoL,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']"
 Oasis,2DaxqgrOhkeH0fpeiQq2f4,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'pop rock', 'rock']"
@@ -393,11 +392,11 @@ Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,"['melodic metalcore', 'metalcore', 
 Sam Tompkins,04uu8U3I1h26Fp2NBkPTRZ,['Without Genre']
 glaive,4cJKDGSv4Dz9QycXYmo565,"['glitchcore', 'hyperpop', 'proto-hyperpop', 'sad rap']"
 Marco Mengoni,3xGlLcG9CUrs5MvFkSLOS5,"['italian adult pop', 'italian pop', 'italian pop rock']"
-Gazzelle,7KFOc3T4Xo8DVZt4PWw2qN,"['italian indie pop', 'italian pop', 'rome indie']"
+Gazzelle,7KFOc3T4Xo8DVZt4PWw2qN,"['italian indie pop', 'rome indie']"
 Fasma,1hM06YHQ635cZwwUbn7dpk,"['emo rap italiano', 'italian hip hop', 'italian pop', 'pop virale italiano']"
 GG,0kbBijEWCi7FWrBpnpOcHd,['Without Genre']
 Adriano Celentano,1yq9UuPp5DIb5w6eswGbKV,"['classic italian pop', 'italian adult pop']"
-Michele Merlo,6ngQRJyPmD9dPecABvtYW2,['italian pop']
+Michele Merlo,6ngQRJyPmD9dPecABvtYW2,['Without Genre']
 Mr Gabriel,1rsgErnMZ2QvhZzBpEDTJS,['Without Genre']
 will.i.am,085pc2PYOi8bGKj0PNjekA,"['dance pop', 'pop', 'pop rap']"
 Macklemore & Ryan Lewis,5BcAKTbp20cv7tC5VqPFoC,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']"
@@ -412,28 +411,28 @@ Alessandra Amoroso,2pjb5ffSoVTr5lRYQXlnPu,"['italian adult pop', 'italian pop', 
 DB Boulevard,17jVKTope5TIJoBQBTzaxj,['vocal house']
 Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'pop rap', 'urban contemporary']"
 Shablo,6hkKbkZGvAXuvle2FhCnxy,['italian hip hop']
-Franco126,2KkO9uXHF9BVNJASjLekAc,"['italian hip hop', 'italian indie pop', 'italian pop', 'rome indie']"
-Ketama126,0pSx3asj3usz5PRt8COo0E,"['drill italiana', 'emo rap italiano', 'italian hip hop', 'trap italiana']"
+Franco126,2KkO9uXHF9BVNJASjLekAc,"['italian hip hop', 'italian indie pop', 'rome indie']"
+Ketama126,0pSx3asj3usz5PRt8COo0E,"['drill italiana', 'emo rap italiano', 'italian hip hop', 'italian indie pop', 'trap italiana']"
 Elisa,2ARH58Hit3yC6ziGdhma23,"['italian adult pop', 'italian pop']"
 Merk & Kremont,5rRcnWrevHgbuWjl7Lhft7,['electro house']
 DNCE,6T5tfhQCknKG4UnH90qGnz,"['dance pop', 'edm', 'pop', 'post-teen pop']"
 Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,"['europop', 'italian adult pop', 'latin arena pop', 'latin pop', 'mexican pop']"
-GionnyScandal,7EyPI6TWLhz3XUpxkbyCV2,"['emo rap italiano', 'italian pop']"
+GionnyScandal,7EyPI6TWLhz3XUpxkbyCV2,"['emo rap italiano', 'italian adult pop', 'italian pop']"
 chiello,5mjasIBQQPIqA9GV2Ys61h,"['italian hip hop', 'italian indie pop']"
-Purple Disco Machine,2WBJQGf1bT1kxuoqziH5g4,"['deep house', 'house', 'tropical house']"
+Purple Disco Machine,2WBJQGf1bT1kxuoqziH5g4,"['deep house', 'edm', 'house', 'tropical house']"
 Moss Kena,2u6jNcpusijFS6ZzuWRwMv,['uk contemporary r&b']
-The Knocks,2x7EATekOPhFGRx3syMGEC,"['alternative dance', 'edm', 'indie poptimism', 'indietronica', 'nu disco', 'pop', 'tropical house']"
+The Knocks,2x7EATekOPhFGRx3syMGEC,"['alternative dance', 'edm', 'indie poptimism', 'nu disco', 'tropical house']"
 Emanuele Aloia,3vkFU3DBYyYBSUt323pj76,['italian pop']
 Janieck,1bZDq4po4dMIpN74Zendm0,['dutch pop']
 Vance Joy,10exVja0key0uqUkk6LJRT,"['folk-pop', 'pop']"
-Will,7qIrqNF6i1kRLkGLgGXuZq,"['italian pop', 'pop virale italiano']"
+Will,7qIrqNF6i1kRLkGLgGXuZq,['pop virale italiano']
 Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"['dance pop', 'pop', 'viral pop']"
-Aka 7even,0lQtBhjEJpoOroQS6fbWMc,['italian pop']
+Aka 7even,0lQtBhjEJpoOroQS6fbWMc,"['italian adult pop', 'italian pop']"
 Manuela Villa,59PP4brVe9kmreXmenzpa4,['Without Genre']
 Jason Mraz,4phGZZrJZRo4ElhRtViYdl,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']"
 Max Gazzè,1h5O32I1o0VOnpLmKXLfRa,['italian adult pop']
 Colapesce,2KX2VLr3Eu6sn6EtxzCtvf,"['indie siciliano', 'italian alternative', 'italian indie pop']"
-Dimartino,1k3zqz5SgrYCE0wpcfJX3g,"['indie siciliano', 'italian alternative', 'italian indie pop']"
+Dimartino,1k3zqz5SgrYCE0wpcfJX3g,"['indie siciliano', 'italian indie pop']"
 Zero Assoluto,3bf7Y2it29DeOjXpIibCOe,"['europop', 'italian adult pop', 'italian pop']"
 Loredana Bertè,2XpUprTohaksHpVjUtTvlx,"['classic italian pop', 'italian adult pop']"
 John Newman,34v5MVKeQnIo0CWYMbbrPf,['dance pop']
@@ -446,7 +445,7 @@ Tiziano Ferro,11TplWqOPQBTmg2eiSLt1m,['italian adult pop']
 Fabrizio Moro,3ebOqZZsLCDAkLS6QdI8cc,"['classic italian pop', 'italian adult pop']"
 Le Vibrazioni,3J3PdLj6v1uAs1mWKpzZbX,"['classic italian pop', 'italian adult pop']"
 Modà,3ALm6zJLaJMWV0r89kuYtu,"['bow pop', 'italian adult pop']"
-Rick Astley,0gxyHStUsqpMadRV0Di1Qt,"['europop', 'new romantic', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']"
+Rick Astley,0gxyHStUsqpMadRV0Di1Qt,"['europop', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']"
 Thegiornalisti,6YBgd2LKccEB3pX6UaW1Yp,"['italian adult pop', 'italian indie pop', 'italian pop', 'rome indie']"
 Bill Medley,1XE70WwxhnrXNAJYQQ9ygx,['soft rock']
 Jennifer Warnes,1BwHztAQKypBuy5WBEdJnG,"['folk', 'singer-songwriter']"
@@ -461,12 +460,12 @@ Bradley Cooper,4VIvfOurcf0vuLRxLkGnIG,['hollywood']
 Ligabue,7H8ZC8uHJMPZGLMApRRNIz,"['italian adult pop', 'italian pop rock']"
 The Cranberries,7t0rwkOPGlDPEhaOcVtOt9,"['irish rock', 'pop rock']"
 MIKA,5MmVJVhhYKQ86izuGHzJYA,"['dance pop', 'europop', 'pop']"
-Chiara Galiazzo,5pJV7GdYrjU3zQpxc24kN7,"['italian adult pop', 'italian pop']"
+Chiara Galiazzo,5pJV7GdYrjU3zQpxc24kN7,['italian adult pop']
 Nashley,5RiGhrEoM1SBjZoY25lCfe,['italian hip hop']
 2nd Roof,1eznSku2RY9VSvkhWxXdmx,['italian hip hop']
 Prince Paris,5aAJhXtrFlRSDzZmCktcXQ,['Without Genre']
 Vasco Rossi,5l4nhyz8876RhgE2d18h65,"['classic italian pop', 'italian adult pop']"
-Gianni Bismark,26PZBCQnswFp61ccTrVJOa,"['emo rap italiano', 'italian hip hop']"
+Gianni Bismark,26PZBCQnswFp61ccTrVJOa,"['emo rap italiano', 'italian hip hop', 'italian indie pop']"
 LIBERATO,4X89u81dkCXBSGo8i2DhMW,"['italian hip hop', 'italian indie pop', 'r&b italiano', 'rap napoletano']"
 Rayan,6doCr3greqY545Eo7IsY3m,"['italian hip hop', 'trap italiana']"
 Intifaya,1sSz8a84ezDX1LhXCIgt41,['Without Genre']
@@ -566,7 +565,7 @@ Hanta,2rFqxAJ9twat0MYz2c6P2M,['rap tunisien']
 El Castro,5aj6jIshzpUh4WQvQ5EzKO,"['arabic hip hop', 'rap tunisien']"
 Machinedrum,06xa1OLBsMQJFXcl2tQkH4,"['footwork', 'future bass', 'future garage', 'glitch', 'glitch hop', 'halftime dnb', 'intelligent dance music', 'minimal dnb', 'uk bass', 'vapor twitch', 'wonky']"
 Lacrim,7DUTsWY3RBd64vh8UtgtYA,"['arabic hip hop', 'francoton', 'french hip hop', 'pop urbaine', 'rap francais']"
-SDM,0LKAV3zJ8a8AIGnyc5OvfB,"['french hip hop', 'pop urbaine', 'rap francais']"
+SDM,0LKAV3zJ8a8AIGnyc5OvfB,"['french hip hop', 'pop urbaine']"
 Tagne,3977Z9BZCFbJQYwdIdVwgc,"['moroccan pop', 'rap maroc']"
 Keta,0noBqdN1IGlVyoYkpd6Vrn,"['italian hip hop', 'trap italiana']"
 2Two,0mj273jWZNCOCMIorzMjtw,['rap tunisien']
@@ -581,7 +580,7 @@ Vince Staples,68kEuyFKyqrdQQLLsmiatm,"['conscious hip hop', 'hip hop', 'rap', 'u
 Hippie Sabotage,4dM6NDYSfLcspt8GLoT5aE,"['edm', 'electronic trap']"
 Roméo Elvis,2pHk4wAmL7ofTAuvCIUWtv,"['belgian hip hop', 'french hip hop', 'rap calme']"
 JenJoon,5EueujjeEpYjmaQbAuaetK,"['rap tunisien', 'tunisian pop']"
-Nirvana,6olE6TJLqED3rqDCT0FyPh,"['grunge', 'permanent wave', 'rock']"
+Nirvana,6olE6TJLqED3rqDCT0FyPh,"['alternative rock', 'grunge', 'permanent wave', 'rock']"
 Flenn,66OYzK2q18j4EVdMqRtf6L,['rap algerien']
 Wayne Santana,4FiPwqm4GHYuJyldqILugY,"['italian hip hop', 'trap italiana']"
 Pyrex,7h1amg0X7Q5d0D5KfuyKTg,['trap italiana']
@@ -603,7 +602,7 @@ Gunna,2hlmm7s2ICUX0LVIhVFlZQ,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', '
 Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
 BAYA,44tT41qPtEntyDJPyjxZtN,['rap tunisien']
 Tabac Roule,4QDXJLkcx0LJSxl3fWfYZy,['rap tunisien']
-42 Dugg,45gHcnDnMC15sgx3VL7ROG,"['detroit trap', 'rap', 'trap']"
+42 Dugg,45gHcnDnMC15sgx3VL7ROG,"['detroit trap', 'rap', 'southern hip hop', 'trap']"
 XIIVI,7KSQKdaecID0uErHDg8y0N,['rap tunisien']
 It's ERROR,3cQGlr2EF36wyYPWhDwoph,['Without Genre']
 Linko,2YuHtXxcxFY5KM3ukLvExV,['rap tunisien']
@@ -615,7 +614,7 @@ Swae Lee,1zNqQNIdeOUZHb8zbZRFMX,"['melodic rap', 'trap']"
 Young Stoner Life,1xr2G8Hlx4QWmT9HaUbmoO,"['hip hop', 'rap', 'southern hip hop', 'trap']"
 Miles Wesley,4WhfepOctZk2kVISWeeNo3,['sad rap']
 Trevor Daniel,7uaIm6Pw7xplS8Dy06V6pT,"['melodic rap', 'pop', 'pop rap', 'viral rap']"
-Money Man,3Rx4PJ7SP6unkOk5elPUK7,"['memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+Money Man,3Rx4PJ7SP6unkOk5elPUK7,"['memphis hip hop', 'rap', 'southern hip hop', 'trap']"
 THE SCOTTS,2PaZWGu5T5nHjY2xxAkFsT,['Without Genre']
 Muks Died,1HCZLGaCIHX0yHYqtoEJkn,['Without Genre']
 Arizona Zervas,0vRvGUQVUjytro0xpb26bs,"['pop', 'pop rap', 'rhode island rap', 'viral rap']"
@@ -692,13 +691,13 @@ Necrophagist,22GSc8UsPGIP5mrM4W57rY,"['brutal death metal', 'death metal', 'germ
 The Raven Autarchy,1y64eIIxdhBplQuPF7bKnQ,"['progressive deathcore', 'symphonic deathcore']"
 Mark Garrett,1jzcjryUAbmKUwcutDVEA0,['Without Genre']
 Infant Annihilator,6eSSPyqys0J4j0kdi3hFrR,"['comic metal', 'deathcore']"
-Sublime,0EdvGhlC1FkGItLOWQzG4J,"['alternative rock', 'reggae fusion', 'ska mexicano', 'ska punk']"
+Sublime,0EdvGhlC1FkGItLOWQzG4J,"['reggae fusion', 'ska mexicano', 'ska punk']"
 Radiohead,4Z8W4fKeB5YxbusRsdQVPb,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']"
 Anima,1QDd01OCSmTbYTPB1stDOl,['Without Genre']
 Steve Vai,32Jb1X3wSmmoHj2epZReZA,"['instrumental rock', 'metal guitar', 'neo classical metal', 'shred']"
 NASKA,4r1DHaB2yIhddOkTF92d1d,"['emo rap italiano', 'italian hip hop']"
 Chicoria,5OzBpKiOsMFpuwvbJpUGce,"['italian hip hop', 'italian underground hip hop']"
-Pearl Jam,1w5Kfo2jwwIPruYS2UWh56,"['alternative rock', 'grunge', 'permanent wave', 'rock']"
+Pearl Jam,1w5Kfo2jwwIPruYS2UWh56,"['grunge', 'permanent wave', 'rock']"
 Opeth,0ybFZ2Ab08V8hueghSXm6E,"['alternative metal', 'metal', 'progressive death metal', 'progressive metal', 'swedish metal', 'swedish progressive metal']"
 The Jins,5WvFLGeK0O8imCwfQF1j3b,['Without Genre']
 Bad Religion,2yJwXpWAQOOl5XFzbCxLs9,"['punk', 'skate punk', 'socal pop punk']"
@@ -706,7 +705,7 @@ First Fragment,51NIL49MVTWeXEC8LoVrQ0,"['quebec death metal', 'technical death m
 The Suicide Machines,31v7ijnAMVL9V7Uzr1sFcI,"['modern ska punk', 'punk', 'ska', 'ska punk', 'skate punk']"
 Vale Of Pnath,31i0H73pagGhaNZ9YLgUYY,"['brutal death metal', 'cosmic death metal', 'denver metal', 'lovecraftian metal', 'technical brutal death metal', 'technical death metal', 'technical deathcore', 'technical melodic death metal']"
 Obscura,7i82bJxWj1Tggc7pnU1hzt,"['brutal death metal', 'cosmic death metal', 'death metal', 'jazz metal', 'progressive death metal', 'progressive technical death metal', 'sci-fi metal', 'technical death metal']"
-Descendents,1FGH4Bh7g9W6V4fUcKZWp5,"['melodic hardcore', 'punk', 'ska punk', 'skate punk']"
+Descendents,1FGH4Bh7g9W6V4fUcKZWp5,"['hardcore punk', 'melodic hardcore', 'punk', 'skate punk']"
 Muse,12Chz98pHFMPJEknJQMWvI,"['modern rock', 'permanent wave', 'rock']"
 The Last of Lucy,674ZrmXkEtoj4aF3YNS7QY,"['progressive technical death metal', 'technical death metal']"
 Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']"
@@ -740,8 +739,8 @@ BABYMETAL,630wzNP2OL7fl4Xl0GnMWq,"['comic metal', 'idol rock', 'j-metal', 'kawai
 Finntroll,4ZgkHVHmGPXuRy8zd26ZJX,"['finnish metal', 'folk metal', 'melodic death metal', 'metal', 'nordic folk metal', 'power metal', 'viking metal']"
 I Prevail,3Uobr6LgQpBbk6k4QGAb3V,['nu-metalcore']
 Epica,5HA5aLY3jJV7eimXWkRBBp,"['dutch metal', 'gothic metal', 'gothic symphonic metal', 'melodic metal', 'neo classical metal', 'opera metal', 'power metal', 'symphonic metal']"
-Stratovarius,1O8CSXsPwEqxcoBE360PPO,"['finnish power metal', 'melodic metal', 'metal', 'neo classical metal', 'power metal', 'progressive metal']"
-Grimes,053q0ukIDRgzwTr4vNSwab,"['art pop', 'canadian electropop', 'dance pop', 'grave wave', 'indietronica', 'metropopolis', 'pop']"
+Stratovarius,1O8CSXsPwEqxcoBE360PPO,"['finnish power metal', 'melodic metal', 'metal', 'neo classical metal', 'power metal', 'progressive metal', 'symphonic metal']"
+Grimes,053q0ukIDRgzwTr4vNSwab,"['art pop', 'canadian electropop', 'dance pop', 'electropop', 'grave wave', 'indietronica', 'metropopolis', 'pop']"
 YUNGBLUD,6Ad91Jof8Niiw0lGLLi3NW,"['british indie rock', 'modern rock', 'rock']"
 Atlas Pain,2hqAv09R9nzJEOaThnbO67,"['folk metal', 'italian folk metal']"
 Gloryhammer,7dkEByOe0oHqc54qU4hwzV,"['british power metal', 'comic metal', 'melodic metal', 'power metal', 'scottish metal', 'symphonic metal']"
@@ -757,7 +756,7 @@ Arch Enemy,0DCw6lHkzh9t7f8Hb4Z0Sx,"['alternative metal', 'death metal', 'melodic
 Anorexia Nervosa,1hLFppCfgvSTH9C6ftWOoU,"['black metal', 'french black metal', 'french metal', 'symphonic black metal']"
 Dina Rae,5jNmxPYz8QE5rYp4GDil8t,['Without Genre']
 ILLENIUM,45eNHdiiabvmbp4erw26rg,"['edm', 'melodic dubstep', 'pop', 'pop dance', 'tropical house']"
-Excision,5FKchcZpQOkqFvXBj1aCvb,"['brostep', 'canadian electronic', 'edm', 'electro house', 'electronic trap']"
+Excision,5FKchcZpQOkqFvXBj1aCvb,"['brostep', 'canadian electronic', 'edm', 'electro house', 'melodic dubstep']"
 Nova Twins,7I95CM75shzCjHuTzrepjM,"['black punk', 'uk diy punk']"
 Whitechapel,5274obTQJjzjyycRyJlfml,"['deathcore', 'melodic metalcore', 'metalcore', 'tennessee metal']"
 Sam Carter,0x1N3jJbGtzIDIoJcktVCA,['Without Genre']
@@ -777,22 +776,22 @@ The Kooks,1GLtl8uqKmnyCWxHmw9tL4,"['brighton indie', 'modern rock', 'rock']"
 The Strokes,0epOFNiUfyON9EYx7Tpr6V,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']"
 Arcade Fire,3kjuyTCjPG1WMFCiyc5IuB,"['baroque pop', 'canadian indie', 'indie rock', 'modern rock', 'permanent wave', 'quebec indie', 'rock']"
 The Microphones,7Ht57YadlBXcFJDK3plmhO,"['alternative rock', 'anti-folk', 'indie rock', 'lo-fi', 'lo-fi indie', 'noise pop', 'olympia wa indie']"
-Animal Collective,4kwxTgCKMipBKhSnEstNKj,"['alternative dance', 'alternative rock', 'art pop', 'baltimore indie', 'chillwave', 'dream pop', 'experimental pop', 'freak folk', 'indie rock', 'modern rock', 'new rave', 'noise pop']"
+Animal Collective,4kwxTgCKMipBKhSnEstNKj,"['alternative rock', 'art pop', 'baltimore indie', 'chillwave', 'dream pop', 'experimental pop', 'freak folk', 'indie rock', 'modern rock', 'new rave', 'noise pop']"
 Scouting For Girls,2wpJOPmf1TIOzrB9mzHifd,['dance pop']
 Tame Impala,5INjqkS1o8h1imAzPqGZBb,"['australian psych', 'neo-psychedelic']"
 Fleet Foxes,4EVpmkEwrLYEg6jIsiPMIb,"['chamber pop', 'folk', 'indie folk', 'indie pop', 'indie rock', 'seattle indie', 'stomp and holler']"
 The Shins,4LG4Bs1Gadht7TCrMytQUO,"['albuquerque indie', 'alternative rock', 'indie pop', 'indie rock', 'modern rock', 'portland indie', 'stomp and holler']"
 The Offspring,5LfGQac0EIXyAN8aUwmNAQ,"['alternative metal', 'permanent wave', 'punk', 'rock', 'skate punk', 'socal pop punk']"
-The Voidz,4nUBBtLtzqZGpdiynTJbYJ,"['indie rock', 'modern alternative rock']"
+The Voidz,4nUBBtLtzqZGpdiynTJbYJ,"['indie rock', 'modern alternative rock', 'modern rock']"
 Death Cab for Cutie,0YrtvWJMgSdVrk3SfNjTbx,"['indie pop', 'indie rock', 'modern rock', 'washington indie']"
 My Chemical Romance,7FBcuc1gsnv6Y1nwFtNRCb,"['emo', 'pop punk']"
 The Killers,0C0XlULifJtAgn6ZNCW2eu,"['alternative rock', 'dance rock', 'permanent wave', 'rock']"
 Oliver Tree,6TLwD7HPWuiOzvXEa3oCNe,['alternative hip hop']
-Kate Nash,5vBKu1igxFo6g1sHADkIdg,"['anti-folk', 'piano rock']"
-boygenius,1hLiboQ98IQWhpKeP9vRFw,"['art pop', 'indie pop']"
-Julien Baker,12zbUHbPHL5DGuJtiUfsip,"['ambient folk', 'bubblegrunge', 'indie pop', 'indie rock']"
+Kate Nash,5vBKu1igxFo6g1sHADkIdg,"['anti-folk', 'electropop', 'piano rock']"
+boygenius,1hLiboQ98IQWhpKeP9vRFw,"['indie pop', 'pop']"
+Julien Baker,12zbUHbPHL5DGuJtiUfsip,"['ambient folk', 'art pop', 'bubblegrunge', 'indie pop', 'indie rock']"
 Phoebe Bridgers,1r1uxoy19fzMxunt3ONAkG,"['indie pop', 'la indie']"
-Sum 41,0qT79UgT5tY4yudH9VfsdT,"['canadian pop punk', 'canadian punk', 'pop punk', 'punk']"
+Sum 41,0qT79UgT5tY4yudH9VfsdT,"['canadian pop punk', 'canadian punk', 'punk']"
 The Fray,0zOcE3mg9nS6l3yxt1Y0bK,"['neo mellow', 'piano rock', 'pop', 'pop rock']"
 Lou Reed,42TFhl7WlMRXiNqzSrnzPL,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'psychedelic rock', 'rock', 'singer-songwriter']"
 James Blunt,7KMqksf0UMdyA0UCf4R3ux,"['neo mellow', 'pop', 'pop rock']"
@@ -803,7 +802,7 @@ Stereophonics,21UJ7PRWb3Etgsu99f8yo8,"['britpop', 'modern rock', 'neo mellow', '
 The Goo Goo Dolls,2sil8z5kiy4r76CRTXxBCA,"['neo mellow', 'permanent wave', 'pop rock']"
 blink-182,6FBDaR13swtiWwGhX1WQsP,"['pop punk', 'punk', 'rock', 'socal pop punk']"
 Cavetown,2hR4h1Cao2ueuI7Cx9c7V8,"['bedroom pop', 'indie pop']"
-Owl City,07QEuhtrNmmZ0zEcqE9SF6,"['indietronica', 'pop', 'pop rock']"
+Owl City,07QEuhtrNmmZ0zEcqE9SF6,"['indietronica', 'pop rock']"
 Cage The Elephant,26T3LtbuGT1Fu9m0eRq5X3,"['modern rock', 'punk blues', 'rock']"
 Kaiser Chiefs,0LbLWjaweRbO4FDKYlbfNt,"['alternative rock', 'modern rock', 'rock']"
 Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
@@ -815,7 +814,7 @@ Dylan Brady,2Cm6C9PNHioyjRKBfO7n9N,"['escape room', 'hyperpop', 'proto-hyperpop'
 Plain White T's,1g1yxsNVPhMUl9GrMjEb2o,"['neo mellow', 'pop punk', 'pop rock']"
 Weyes Blood,3Uqu1mEdkUJxPe7s31n1M9,"['art pop', 'experimental folk', 'indie pop']"
 Lucius,1WrqUPWlHN5FXCRcQgrkas,"['indie folk', 'indie pop', 'new americana']"
-Lena Raine,3Ww8GMbCDMAGwJJ2hd7z7z,"['indie game soundtrack', 'pixel', 'spectra', 'video game music']"
+Lena Raine,3Ww8GMbCDMAGwJJ2hd7z7z,"['indie game soundtrack', 'pixel', 'spectra']"
 Eric Prydz,5sm0jQ1mq0dusiLtDJ2b4R,"['disco house', 'edm', 'electro house', 'pop dance', 'progressive house', 'vocal house']"
 Dire Straits,0WwSkZ7LtFUFjGjMZBMt6T,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']"
 Quiet Machine,1prGzOutBScDLXLCORA35Z,['Without Genre']
@@ -828,8 +827,8 @@ George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,"['folk-pop', 'neo-singer-songwriter']"
 Tion Wayne,7b79bQFziJFedJb75k6hFt,['london rap']
 Fumez The Engineer,0ksX396B3t2Gt8kwr0BJZk,"['melodic drill', 'uk drill', 'uk melodic rap']"
 MINUR,7rylbiZO3rabYvIKu4Kcg0,['trap italiana']
-Simba La Rue,2PEMswqQspTSsAltdeF5kO,['drill italiana']
-Zefe,3yNjXWi2WswJfuBZSouJRH,['Without Genre']
+Simba La Rue,2PEMswqQspTSsAltdeF5kO,"['drill italiana', 'italian hip hop']"
+Zefe,3yNjXWi2WswJfuBZSouJRH,['italian hip hop']
 Blake Religion,1JW4Ic8BQlx1rnh9WAohGC,['Without Genre']
 MamboLosco,4BFn4jmfqSNaHtPWHTcy41,['trap italiana']
 Rondodasosa,61bQ4nwIioR8w6PGxzpyY3,"['drill italiana', 'italian hip hop', 'trap italiana']"
@@ -878,10 +877,10 @@ Gala,3OqTvcWgb0xaainosGVvuZ,"['eurodance', 'europop', 'hip house']"
 Vincenzo,4AaOibM7lYBox7yJQJcVLb,['Without Genre']
 Chakra,78tkEnghpGYk8stmKlkxbv,['italian hip hop']
 French Montana,6vXTefBL93Dj5IqAWq6OTv,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
-The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,"['australian hip hop', 'pop', 'rap']"
+The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,"['australian hip hop', 'pop']"
 Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'pop']"
 Naps,6W5uA6CNMf3hd2j4a2XWCx,"['francoton', 'french hip hop', 'pop urbaine', 'rap marseille']"
-GIMS,0GOx72r5AAEKRGQFn3xqXK,"['francoton', 'french hip hop', 'rap conscient']"
+GIMS,0GOx72r5AAEKRGQFn3xqXK,"['francoton', 'french hip hop', 'french pop', 'rap conscient']"
 BLOODY VINYL,0VitAFMCI2apQxKzDjg1PU,"['italian hip hop', 'trap italiana']"
 Slait,2KXYAKQTxHuUHDtVgeGn6w,['Without Genre']
 5019,0bIICDFvg6PqEWaZsfvpCR,['Without Genre']
@@ -1012,7 +1011,7 @@ TOTO,0PFtn5NtBbbUNbU9EAmIWF,"['album rock', 'classic rock', 'mellow gold', 'rock
 Kygo,23fqKkggKUBHNkbKtXEls4,"['edm', 'pop', 'pop dance', 'tropical house']"
 Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']"
 t.A.T.u.,2Q3eZMfDQgT8MhPowKFXYO,"['dance pop', 'girl group']"
-Sia,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'pop']"
+Sia,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'dance pop', 'pop']"
 Bryan Adams,3Z02hBLubJxuFJfhacLSDc,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'soft rock']"
 a-ha,2jzc5TC5TVFLXQlBNiIUzE,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'pop rock', 'soft rock', 'synthpop']"
 Fiorella Mannoia,5VxhGHbcuvqTLRUWzBUN8L,"['classic italian pop', 'italian adult pop']"
@@ -1025,7 +1024,7 @@ Luke Madness,4NI1RIviCLkITDZxRqrqMV,['Without Genre']
 Luca Carboni,1wmD3O9TEeshZVuFVgpm0g,"['bow pop', 'classic italian pop', 'italian adult pop']"
 Feid,2LRoIwlKmHjgvigdNGBHNo,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']"
 Syzz,5qQTwkRWNaZngwkU1CPmYJ,['Without Genre']
-Claver Gold,65U1A6j2pIHfZXLoitJFXz,"['italian hip hop', 'italian underground hip hop']"
+Claver Gold,65U1A6j2pIHfZXLoitJFXz,"['italian hip hop', 'italian indie pop', 'italian underground hip hop']"
 Kintsugi,6nkziP0t4AGtsBye9poRnv,['Without Genre']
 ACRAZE,4pnp4w9g30yLfVIAFnZMRd,"['edm', 'pop dance']"
 Cherish,1c70yCa8sRgIiQxl3HOEFo,"['atl hip hop', 'dance pop', 'girl group', 'hip pop', 'pop r&b', 'r&b', 'southern hip hop', 'urban contemporary']"
@@ -1046,7 +1045,7 @@ Philip Bailey,6ZNeppgfBLPUyugks9Yn1u,['yacht rock']
 Phil Collins,4lxfqrEsLX6N1N4OCSkILp,"['mellow gold', 'rock drums', 'soft rock']"
 Akon,0z4gvV4rjIZ9wHck67ucSV,['dance pop']
 DTF,37ioGUZGhKk7VjWIocx8kM,"['french hip hop', 'pop urbaine', 'rap conscient', 'rap francais']"
-Portugal. The Man,4kI8Ie27vjvonwaB2ePh8T,"['modern rock', 'rock']"
+Portugal. The Man,4kI8Ie27vjvonwaB2ePh8T,"['modern alternative rock', 'modern rock', 'rock']"
 Maria Becerra,1DxLCyH42yaHKGK3cl5bvG,['pop argentino']
 Jax Jones,4Q6nIcaBED8qUel8bBx6Cr,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'tropical house', 'uk dance']"
 MNEK,7uMh23xWiuR7zsNkuNcm2G,"['uk contemporary r&b', 'uk dance']"
@@ -1061,17 +1060,17 @@ Lordnox,6foP1FxrbPWJ7byQW5uzHW,['Without Genre']
 Naughty Boy,1bT7m67vi78r2oqvxrP3X5,"['dance pop', 'uk contemporary r&b']"
 Sam Smith,2wY79sveU1sp5g7SokKOiI,"['pop', 'uk pop']"
 Tyga,5LHRHt1k9lMyONurDHEdrp,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
-G-Eazy,02kJSzxNuaWGqwubyUba0Z,"['indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']"
+G-Eazy,02kJSzxNuaWGqwubyUba0Z,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']"
 Rich The Kid,1pPmIToKXyGdsCF6LmqLmI,"['atl hip hop', 'hip hop', 'melodic rap', 'plugg', 'pop rap', 'rap', 'southern hip hop', 'trap', 'vapor trap', 'viral rap']"
 Au/Ra,1eMmoIprPDWeFdB1FxU6ZV,"['alt z', 'deep pop edm', 'electropop', 'indie poptimism', 'pop']"
 Super Yei,6HqgxkTt9KGyt27zYrwVan,"['reggaeton', 'reggaeton flow', 'urbano latino']"
 Sammy,2raERfjzsdnUUQeZSge5eZ,['Without Genre']
 Lenny Tavárez,1pQWsZQehhS4wavwh7Fnxd,"['reggaeton', 'reggaeton flow', 'trap argentino', 'trap latino', 'urbano latino']"
-Rafa Pabön,11YLRSsZA3YVuQQtHXKTlz,"['dominican pop', 'reggaeton', 'reggaeton flow', 'urbano latino']"
+Rafa Pabön,11YLRSsZA3YVuQQtHXKTlz,"['reggaeton', 'reggaeton flow', 'urbano latino']"
 KREAM,0DdDnziut7wOo6cAYWVZC5,"['dance pop', 'deep groove house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'tropical house']"
 Clara Mae,6RHKEd9dpzQ4c09x8Zdaxu,"['alt z', 'electropop', 'pop', 'post-teen pop', 'social media pop', 'swedish pop']"
 Joe Mason,1kvPwRRVHcVdA8YY7RHmoz,['Without Genre']
-Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'pop', 'r&b']"
+Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"['dance pop', 'r&b']"
 Dave,6Ip8FS7vWT1uKkJSweANQK,['uk hip hop']
 Fredo,3rbtPd0NcvhO2AzMfzx90z,['uk hip hop']
 HARLEE,6eNlaSdxs8F7F0XlfDBhZy,['Without Genre']
@@ -1085,10 +1084,10 @@ Zeeba,7qPLO2XOUaRrRxkvLZ3AEK,"['brazilian edm', 'nova mpb']"
 Bruno Martini,5veVxxPm1vzgi6pO2iVA8L,"['brazilian edm', 'pop nacional']"
 Juanfran,7zY0DMisq1oYXvNNgGwHBY,"['dominican pop', 'pop reggaeton', 'urbano espanol']"
 The Stickmen Project,13wroZC00C9ix8fUR0JvaY,['Without Genre']
-Tom Boxer,0Qz06Kvk8662UwwVMpjYet,"['electro latino', 'romanian house']"
+Tom Boxer,0Qz06Kvk8662UwwVMpjYet,['romanian house']
 Morena,1NngpKgaSiaaAwVTDa1OeE,['super eurobeat']
 J Warner,2qFIyqgMSxeb3rb9UDnOuo,['Without Genre']
-Gambino,5Wf0eeUkR6rRAre6L7H7jW,"['francoton', 'french hip hop', 'pop urbaine', 'rap francais', 'rap marseille']"
+Gambino,5Wf0eeUkR6rRAre6L7H7jW,"['francoton', 'french hip hop', 'pop urbaine', 'rap marseille']"
 Ant Saunders,4jpsw9CQS439N0B7SecMgf,"['chill r&b', 'pop']"
 Goodboys,2nm38smINjms1LtczR0Cei,['uk dance']
 Lilly Wood and The Prick,50OApTJurDusIo9dGTqSU4,"['french indie pop', 'french rock']"
@@ -1110,7 +1109,6 @@ Labrinth,2feDdbD5araYcm6JhFHHw7,"['indie poptimism', 'pop']"
 Zendaya,6sCbFbEjbYepqswM1vWjjs,"['dance pop', 'pop', 'post-teen pop']"
 Laila Al Habash,6TlzdBQJ60fuenBUtDARlg,['italian indie pop']
 CARA,5zB3Q6zAf7VWq0cfiHgzqf,['italian pop']
-Billy Porter,3sjUEh7eXUEL5oZLAEZXD4,"['broadway', 'hollywood', 'show tunes']"
 Cinderella Original Motion Picture Cast,4TAsZr2gYCDPlKkc0ezXZ8,['Without Genre']
 DADE,4a4Z6T50vqK7J1kjrYm2Uq,['Without Genre']
 Loretta Goggi,0r310cYIlI5aMcuDTChNlO,"['classic italian pop', 'italian adult pop']"
@@ -1147,7 +1145,7 @@ Orchestre de chambre Jean-François Paillard,0rssD81jXF0qfMH4n7CYAn,['french orc
 Idil Biret,5SBOWUBQdfga0xprPVBxOr,"['classical piano', 'turkish classical performance']"
 Wolfgang Amadeus Mozart,4NJhFmfw43RLBLjQvxDuRS,"['classical', 'classical era']"
 Klára Würtz,6tmD8b0VdHX1k3RVDf1krI,['hungarian classical piano']
-Stevie Wonder,7guDJrEfX3qb6FEbdPA5qi,"['adult standards', 'funk', 'motown', 'quiet storm', 'soul']"
+Stevie Wonder,7guDJrEfX3qb6FEbdPA5qi,"['adult standards', 'funk', 'indie r&b', 'motown', 'quiet storm', 'soul']"
 Vipra,6RubjTZ123VH3iDaGbi7hM,"['hyperpop italiano', 'italian indie pop', 'r&b italiano', 'rome indie']"
 Mr. Monkey,1sHljqzdPCaYRcFrkHW8if,['Without Genre']
 Fools Garden,0jRqFvRKCDryHOgrgFqsKG,['german pop rock']
@@ -1201,8 +1199,8 @@ Hell Raton,6g5SF1Yz63eoPUnJgRHfrz,"['italian hip hop', 'rap sardegna']"
 Jack The Smoker,0vZAzVAFQL1gKLBPfnXMaS,"['italian hip hop', 'italian underground hip hop']"
 Zucchero,2KftmGt9sk1yLjsAoloC3M,"['classic italian pop', 'italian adult pop', 'italian pop rock']"
 Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']"
-Mack 10,3USpNaxpX1iNqNnQWqg9ob,"['chicano rap', 'g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']"
-Kelly Rowland,3AuMNF8rQAKOzjYppFNAoB,"['atl hip hop', 'dance pop', 'hip pop', 'neo soul', 'pop', 'pop r&b', 'pop rap', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']"
+Mack 10,3USpNaxpX1iNqNnQWqg9ob,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']"
+Kelly Rowland,3AuMNF8rQAKOzjYppFNAoB,"['atl hip hop', 'dance pop', 'hip pop', 'pop', 'pop r&b', 'pop rap', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']"
 Jadakiss,5pnbUBPifNnlusY8kTBivi,"['battle rap', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap', 'trap']"
 Styles P,2x8KDZdSONA3872CnhaAlX,"['alternative hip hop', 'battle rap', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
 Diddy,59wfkuBoNyhDMQGCljbUbA,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap']"
@@ -1211,7 +1209,7 @@ Loon,2gie1bU1LwnxdFAJoTLjzT,['hip pop']
 Mario Winans,4BIQA9vRkqXEnA2twmq7mU,"['r&b', 'urban contemporary']"
 Tammy Ruggieri,3syIAcIriqzXKN77IwQnWB,['Without Genre']
 yungest Moonstar,3l9OOqBvHs4SM91bWqtaQb,['italian hip hop']
-Neffa,54dqxLAclwu0QSaTwCyCaF,"['italian adult pop', 'italian hip hop', 'italian indie pop', 'italian underground hip hop', 'rap napoletano']"
+Neffa,54dqxLAclwu0QSaTwCyCaF,"['italian adult pop', 'italian indie pop', 'italian underground hip hop', 'rap napoletano']"
 Simple Minds,6hN9F0iuULZYWXppob22Aj,"['art rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock', 'synthpop']"
 Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"['dance pop', 'pop']"
 Bon Jovi,58lV9VcRSjABbAbfWS6skp,"['glam metal', 'rock']"
@@ -1221,9 +1219,9 @@ Cardi B,4kYSro6naA4h99UJvo89HB,"['dance pop', 'pop', 'rap']"
 Ciara,2NdeV5rLm47xAvogXrYhJX,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']"
 Missy Elliott,2wIVse2owClT7go1WT98tk,"['dance pop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap', 'urban contemporary', 'virginia hip hop']"
 JUVENILE,0rG0AZBscc8S8q1ahIsasI,"['bounce', 'crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'new orleans rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
-Mannie Fresh,0fbFfVckGKsDbAfYnB5mD1,"['bounce', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+Mannie Fresh,0fbFfVckGKsDbAfYnB5mD1,"['bounce', 'dirty south rap', 'gangster rap', 'pop rap', 'southern hip hop', 'trap']"
 *NSYNC,6Ff53KvcvAj5U7Z1vojB5o,"['boy band', 'dance pop']"
-LL COOL J,1P8IfcNKwrkQP5xJWuhaOC,"['east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'hip pop', 'old school hip hop', 'pop rap', 'queens hip hop', 'rap', 'southern hip hop', 'urban contemporary']"
+LL COOL J,1P8IfcNKwrkQP5xJWuhaOC,"['east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'hip pop', 'old school hip hop', 'pop rap', 'queens hip hop', 'rap', 'urban contemporary']"
 Destiny's Child,1Y8cdNmUJH7yBTd9yOvr5i,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b', 'urban contemporary']"
 I RIO,23iKPvwFFex4Irrv9oDtYG,['Without Genre']
 Terror Squad,2BvzbqWWwLN11XGBYgDZzx,"['bronx hip hop', 'hardcore hip hop', 'hip hop']"
@@ -1246,10 +1244,10 @@ The Smashing Pumpkins,40Yq4vzPs9VNUrIBG5Jr2i,"['alternative metal', 'alternative
 Alex Turner,1ctkBmvz80MGyi72Ix055S,"['modern rock', 'rock', 'sheffield indie']"
 Tom Morello,74NBPbyyftqJ4SpDZ4c1Ed,"['modern alternative rock', 'modern rock']"
 Knife Party,2DuJi13MWHjRHrqRUwk8vH,"['australian dance', 'brostep', 'complextro', 'edm', 'electro house', 'moombahton']"
-Whethan,0vqJkZ0RpLZixt3lTmD8vP,"['edm', 'electropop', 'hyperpop', 'indie poptimism', 'vapor twitch']"
+Whethan,0vqJkZ0RpLZixt3lTmD8vP,"['edm', 'electropop', 'hyperpop', 'indie poptimism', 'pop', 'vapor twitch']"
 System Of A Down,5eAWCfyUhZtHHtBdNk56l1,"['alternative metal', 'nu metal', 'rap metal']"
 Lykke Li,6oBm8HB0yfrIc9IHbxs6in,"['art pop', 'dance pop', 'electropop', 'pop', 'swedish electropop', 'swedish indie pop', 'swedish pop']"
-The Magician,4WUGQykLBGFfsl0Qjl6TDM,"['belgian edm', 'edm', 'house', 'pop dance', 'tropical house']"
+The Magician,4WUGQykLBGFfsl0Qjl6TDM,"['belgian edm', 'deep groove house', 'edm', 'house', 'pop dance', 'tropical house']"
 The Doors,22WZ7M8sxp5THdruNY3gXt,"['acid rock', 'album rock', 'classic rock', 'psychedelic rock', 'rock']"
 Silversun Pickups,6qyi8X6MdP1lu6B1K6yh3h,"['alternative rock', 'indie rock', 'la indie', 'modern rock', 'rock']"
 A-Wall,56OjNTX2bkrdGcB0staUOV,['bedroom pop']
@@ -1265,7 +1263,6 @@ Sonny & The Sunsets,67zR9a98QqWJwpO7wBrGog,"['bay area indie', 'popgaze']"
 Otis Redding,60df5JBRRPcnSpsIMxxwQm,"['classic soul', 'memphis soul', 'soul', 'soul blues', 'southern soul']"
 Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,"['baroque pop', 'pop', 'uk alternative pop']"
 The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']"
-Planet Funk,4c4Ce4N4vJOs3Tzee020S4,['electronic rock']
 The Unlikely Candidates,4hwJwkgsufeilLXS1ZfJqq,"['fort worth indie', 'indie poptimism', 'modern alternative rock', 'modern rock', 'rock']"
 Jim Morrison,1QB4oo4JbSRdxNyidIuD0W,"['classic rock', 'psychedelic rock', 'rock']"
 Negramaro,1X9iZlQXfAAx4Vvmlqeao7,"['classic italian pop', 'italian adult pop', 'italian pop']"
@@ -1273,7 +1270,6 @@ Videoclub,3rp4f58JlRHkk8hpdLCer1,"['french indie pop', 'french synthpop']"
 Soulwax,43mWhBXSflupNLuNjM5vff,"['alternative dance', 'belgian electronic', 'belgian indie', 'belgian indie rock', 'belgian rock', 'electro house', 'electronica', 'filter house', 'ghent indie', 'mashup', 'new rave']"
 Chronixx,2oZcMYiKpjaA2Et5mU3RPP,"['dancehall', 'lovers rock', 'modern reggae', 'roots reggae']"
 Chronicle,6g2mU3rm8Y3BntE8tVlTp2,['Without Genre']
-Arrested Youth,4UhExRgMW9QR7oNmTI2lPG,"['modern alternative rock', 'modern rock', 'rock']"
 The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"['british invasion', 'classic rock', 'rock']"
 Die Antwoord,6urkHDoIVO1WO8vNIwcJmM,"['african rock', 'south african alternative', 'south african hip hop']"
 Frances Forever,5uuqghaOBgtv92jDyDveQl,"['bedroom pop', 'indie pop']"
@@ -1282,4 +1278,72 @@ Led Zeppelin,36QJpDe2go2KgaRleHCDTp,"['album rock', 'classic rock', 'hard rock',
 Tommy Genesis,2qDdxfKUpYg8wc49KIuT3b,"['alternative r&b', 'bc underground hip hop', 'canadian hip hop', 'canadian trap', 'electropop', 'escape room', 'trap queen']"
 Chocolate Puma,5Aw0IGM5JS3FuTgtRsDWGA,"['bass house', 'deep groove house', 'disco house', 'dutch edm', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house', 'vocal house']"
 Firebeatz,53YSn9tHwGJ6bq5P0gGoYo,"['dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']"
-The Lumineers,16oZKvXb6WkQlVAjwo2Wbg,"['folk-pop', 'pop', 'stomp and holler']"
+Los Hijos del sol,2eDtYwKCGACUH3hFyaZ7Ah,"['chicha', 'cumbia amazonica', 'cumbia peruana']"
+KeTeKalles,32opeIbCeLG1LiAkmwiiof,['Without Genre']
+Maruja Limón,15weuOZLZZBnFfkmkfVxPu,['Without Genre']
+Onda Vaga,3cBb4A9AZeZhcq781P3wCZ,"['argentine indie', 'argentine rock', 'latin alternative', 'latin rock', 'rock en espanol', 'rock nacional']"
+Novos Baianos,2ohBjgFT9V0LRDWO2wF9DJ,"['bossa nova', 'brazilian indie', 'mpb', 'psicodelia brasileira', 'samba', 'samba-rock', 'tropicalia']"
+Sérgio Sampaio,0ttwBh6o5To3XujSD4x3uA,"['bossa nova', 'brazilian indie', 'mpb', 'samba', 'velha guarda']"
+Jimena Amarillo,29cPgYFoxExwmptUrlnYmm,['Without Genre']
+EDDI CIRCA,5Fa143x669siyI5jjBuTIa,['Without Genre']
+Populous,5Uy8Skuxzxf38jMDTndKIU,"['indie electronica', 'italian electronica', 'latintronica', 'pop electronico', 'puglia indie']"
+Sotomayor,13UO3EqZHeNkeDQKjUS8oH,"['mexican indie', 'nu-cumbia']"
+Manu Chao,6wH6iStAh4KIaWfuhf0NYM,"['latin alternative', 'world']"
+Murubutu,1UAY1hWd5x69hPVXMXIeri,"['indie rock italiano', 'italian hip hop', 'italian indie pop', 'italian underground hip hop']"
+Dia,7FL4vPkLGyqkTZz0190qib,['Without Genre']
+Lion D,6dV7tQuFIXDX8nbGkWCSnz,"['french reggae', 'german reggae', 'modern reggae', 'uk reggae']"
+Kaydy Cain,4nXXIxTneJksvGXrlmX8oA,"['neoperreo', 'urbano espanol', 'urbano latino']"
+EL IMA,00vsUIEaNHw6qoQnh8DQM2,['Without Genre']
+The Smiths,3yY2gUcIsjMr8hjo51PoJ8,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']"
+Los Chipis,1kN8tj5gF3uqZdLrRyZ2Ey,"['cumbia amazonica', 'cumbia peruana']"
+Trio Huaricapcha,5724xERN7yAlxraJ2J37Kf,['Without Genre']
+Los Beltons,5G9iirmDZwxRinaUfEwRgM,['chicha']
+Modena City Ramblers,7H0A1BVbpyDdSmYWRulh4I,"['folk rock italiano', 'italian adult pop']"
+Andrea Laszlo De Simone,2InNZR52CaeutuA8BjbfSh,"['italian indie pop', 'turin indie']"
+Nanan,4cTAxWpGWv5fftdcfNdcn3,['Without Genre']
+La Raíz,036IY6CphXdsPiqIXdqvCP,"['musica catalana', 'ska espanol', 'spanish punk']"
+Tokischa,2p4aN0Uxkk3iT3HK0cJ2cJ,"['dominican pop', 'rap latina', 'trap dominicano']"
+Sylvan Esso,39vA9YljbnOApXKniLWBZv,"['electropop', 'etherpop', 'indie pop', 'indie rock']"
+Collections Of Colonies Of Bees,4mGXknIZtImmEXjSQfGGQp,['milwaukee indie']
+Tim Bernardes,5SVFuUaS3BKAdJs6I8rVa4,['nova mpb']
+Boogarins,0ohvsn0lgt51qZUbu9ct4s,"['brazilian rock', 'neo-psicodelia brasileira', 'neo-psychedelic', 'nova mpb', 'rock goiano']"
+Los Walker’s de Huánuco,1b9Nzzxi0k1CVRldIajwNa,['Without Genre']
+I Cani,1WQY0Xovzegy0pJiOuuyRP,"['italian alternative', 'italian indie pop', 'rome indie']"
+Baiuca,2GSXsSy3YzWsp4BXfSGucS,['galician rock']
+Après La Classe,6ajCRFex2sP3I71JIHxwSZ,['italian reggae']
+Giuse The Lizia,5RUZs42sw44u16SpQQvubK,['italian indie pop']
+Lucio Battisti,2caOYPej26UoQOyFnzXW3G,"[""canzone d'autore""]"
+Francesco Guccini,5Pa0BjjSDSiWuak0O1PbHL,"[""canzone d'autore"", 'classic italian pop', 'folk rock italiano', 'italian adult pop', 'italian indie pop']"
+Matrioska,3Ut51rRtTTigBYWL6SWlFJ,"['italian ska', 'punk rock italiano']"
+Los Vinagres,7lh3aN5caO7mEyllMcGeuS,"['indie canario', 'rock alternativo espanol']"
+Cliff,7rzG5e9ko2SSGDKGBHlgMp,['Without Genre']
+Grupo Maravilla,4DDlcMniR5obaLi3lcy8uI,['chicha']
+Ultrasofia,7hoogGywg2bnxm2bVQsNLA,['Without Genre']
+Inna Cantina,2tB2XiyVFNfMpKbA45egQR,['italian reggae']
+NATHY PELUSO,3VHAySZQPlfGlNLslzXYpN,"['r&b en espanol', 'rap latina']"
+Jarabe De Palo,5B6H1Dq77AV1LZWrbNsuH5,"['latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'spanish pop', 'spanish rock']"
+Fito y Fitipaldis,1tZ99AnqyjgrmPwLfGU5eo,"['latin rock', 'rock en espanol', 'spanish pop']"
+Giorgio Canali,5Q1J5NzWPdZcj26K5DqIDQ,"['folk rock italiano', 'italian alternative', 'italian indie pop']"
+Rossofuoco,1KZdpVFl5PG1xZ213r7aFO,['italian alternative']
+Tom Misch,1uiEZYehlNivdK3iQyAbye,"['indie soul', 'jazz pop']"
+Yussef Dayes,2rspptKP0lPBdlJJAJHqht,"['british jazz', 'indie jazz', 'indie soul', 'uk contemporary jazz']"
+Freddie Gibbs,0Y4inQK6OespitzD6ijMwb,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'southern hip hop', 'underground hip hop']"
+Joan As Police Woman,6PBv8t9YTLggA9ZMwpeoqj,"['art pop', 'brooklyn indie', 'chamber psych', 'singer-songwriter']"
+Sir Sly,3DFoVPonoAAt4EZ1FEI8ue,"['electropop', 'indie poptimism', 'indie rock', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'vapor soul']"
+Spice Girls,0uq5PttqEjj3IH1bzwcrXF,"['dance pop', 'europop', 'girl group']"
+Vince Kaichan,5H31dNFMWrZjicSiVIlOic,['Without Genre']
+Paul Kalkbrenner,0rasA5Z5h1ITtHelCpfu9R,"['electronica', 'german techno', 'leipzig electronic', 'minimal techno', 'tech house']"
+Cielo Gris,02iHxBkCkXAfCY81SPD9pG,['Without Genre']
+Xavier Rudd,5lbM4g6bhxjNX7R5QHP2nD,"['australian indie folk', 'australian reggae fusion']"
+Sanlevigo,513ZtS3NI6qf1LvbTM2e3b,['Without Genre']
+Remi Wolf,0NB5HROxc8dDBXpkIi1v3d,"['indie pop', 'indie r&b', 'modern alternative pop', 'pop']"
+Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,"['alternative pop rock', 'pop']"
+MOX,4eU1G77ExeXQw8FdsQA8It,"['italian indie pop', 'rome indie']"
+DeBarge,6is2U7I1jlI8PjxNZOHIMV,"['contemporary r&b', 'disco', 'funk', 'post-disco', 'quiet storm', 'r&b', 'soul', 'urban contemporary']"
+Emancipator,6HCnsY0Rxi3cg53xreoAIm,"['downtempo', 'electronica', 'livetronica', 'nu jazz', 'trip hop']"
+Grupo Génesis,7BoE7a8wRxaNdFqfrc7LdD,['chicha']
+Grupo Guinda,0S8wOmXrUrfo7egvh8H5wD,"['chicha', 'cumbia peruana']"
+Claudio Morán,7nhmhY1TyOa8drWz4O6tAO,"['cumbia sonidera', 'tropical']"
+Graham Kartna,0hMqyCPWnKkNqSBvmwTMPN,['Without Genre']
+Lavande,7dsjHK0gSFkV6WuZIRXruz,['Without Genre']
+Danit,3Hue0QXHSHhpjbqWk3HmtY,"['high vibe', 'shamanic']"
